@@ -1,0 +1,16 @@
+function [  ] = plota( res , n_passos )
+  size(res)
+  plot(res(1,1:n_passos),'g-')
+  hold on
+  plot(res(2,1:n_passos),'r-')
+  hold on
+  plot(res(3,1:n_passos),'b-')
+  hold on
+
+end
+
+
+
+836800000009 543601380040 002773941113 080124240682
+
+sharkstroll@hotmail.com
