@@ -1,0 +1,5 @@
+Optimized distribution of vaccines by multi-start metaheuristic and Individual Based Model (IBM)
+========
+
+The area of mathematical epidemiology has helped in control- ling and preventing diseases through mathematical conjectures qualify some biological aspects of the epidemics spread, in the form of models based on differential equations. 
+With these models, it’s possible to perform analysis of how the disease will behave and propose ways to control the disease. The stochastic model used in the study is the Individual Based Model (IBM), which has the same assumptions of the deterministic model SIR (Susceptible Infected Recovered), and control is used for pulse vaccination, which consists in performing a determined vaccinations time interval (campaigns). In this context: What is the best way to distribute vaccines and get the lowest cost? With the implementation of meta-heuristic multi-start and IBM as a function of evaluation, this work can help find the best way to deliver vaccines over the desired period, and thus the authorities can use best the resources allocated for the control of a particular disease.
